@@ -1,1 +1,3 @@
 # bamazon
+
+![image](bamazon.png)
